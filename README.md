@@ -1,9 +1,9 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Developer focused on (React, Node/Express, PHP/Laravel). Available for hire </p>
+<p align='center'>I am a Junior Backend Engineer focused on (VueJS/NuxtJS, Node/Express, PHP/Laravel). Available for hire </p>
 
 <p align='center'>
-<a href="https://wa.me/2348161846658?text=Hello Abdulfatai" target="_blank">
+<a href="https://wa.me/2347052053780?text=Hello Zubair" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/iamnotstatic" target="_blank">
