@@ -9,13 +9,13 @@
 <a href="https://twitter.com/AwedaIdris" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdulfatai-suleiman-706ba6172" target="_blank">
+<a href="https://www.linkedin.com/in/idris-aweda-zubair-5433121a3/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:zubairidrisaweda@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/iamnotstatic" />
+  <img src="https://gpvc.arturio.dev/Zubs" />
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Zubs&show_icons=true&theme=tokyonight&line_height=27">
