@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Junior Backend Engineer focused on (VueJS/NuxtJS, Node/Express, PHP/Laravel). Available for hire </p>
+<p align='center'>I am a Junior Backend Engineer focused on (VueJS, NodeJS/Express, PHP/Laravel). Available for hire </p>
 
 <p align='center'>
 <a href="https://wa.me/2347052053780?text=Hello Zubair" target="_blank">
